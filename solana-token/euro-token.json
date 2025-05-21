@@ -1,0 +1,6 @@
+{
+    "name": "Stable EUR",
+    "symbol": "STBEUR",
+    "description": "Fake SPL 2022 EUR stablecoin for testing",
+    "image": "https://en.wikipedia.org/wiki/Euro#/media/File:1€-Vatican_Franciscus-Revers.jpg"
+}
