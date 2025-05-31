@@ -1,0 +1,15 @@
+{
+  "program": "kaxxa_son_pgm.aleo",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "kaxxa_father_pgm.aleo",
+      "location": "local",
+      "network": null,
+      "path": "../kaxxa_father_pgm/"
+    }
+  ],
+  "dev_dependencies": null
+}
